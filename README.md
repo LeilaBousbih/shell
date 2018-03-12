@@ -1,0 +1,2 @@
+# shell
+exo intro shell
